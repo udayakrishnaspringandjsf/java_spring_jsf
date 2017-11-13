@@ -1,4 +1,4 @@
-1.Simple Spring boot Project used to retrive data from a Rest Service and save it in MY SQL Database .
+1.Simple Spring boot Project using Spring Tool Suite to retrive data from a Rest Service and save it in MY SQL Database .
 2.To access the web service ,generate a key by creating an account below :
 https://market.mashape.com/sportsop/soccer-sports-open-data.
 
