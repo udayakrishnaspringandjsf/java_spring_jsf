@@ -14,3 +14,6 @@ http://localhost:8301/rest/football/listleagues
 9.Enter the URL POSTMAN:
 http://localhost:8301/rest/football/listTeams/premier-league/seasons/17-18/teams
 10.Verify that the table is created(team_from_rest) and data is inserted.
+
+
+ISSUES? Contact me by email: maddy.udi@gmail.com
