@@ -8,9 +8,9 @@ Once the account is created you will recieve a Key ,use this key in the code(Res
 4.Change the application.xml ,update username ,password and port(if required).
 5.Run project as Spring boot project.
 6.Download Postman REST client for chrome(Did not test with any other client,but should work fine).
-7.Enter the URl:
+7.Enter the URl in POSTMAN:
 http://localhost:8301/rest/football/listleagues
 8.Verify that table is created(league_from_rest) and data is inserted.
-9.Enter the URL:
+9.Enter the URL POSTMAN:
 http://localhost:8301/rest/football/listTeams/premier-league/seasons/17-18/teams
 10.Verify that the table is created(team_from_rest) and data is inserted.
