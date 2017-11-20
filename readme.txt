@@ -58,6 +58,6 @@ http://localhost:8095/api/user-service/football/addrole/superadmin
 6.Add below URL to add an user as superadmin
 http://localhost:8095/api/user-service/football/adduser/uday/superadmin/maddy.udi@gmail.com
 Do not forget to add header "password" as key and "whateverpasswordyouwant" as value.
-7.he above steps shoud create 2 tables Role and User and insert values into it.
+7.The above steps should create 2 tables Role and User and insert values into it.
 
 ISSUES? Contact me by email: maddy.udi@gmail.com
