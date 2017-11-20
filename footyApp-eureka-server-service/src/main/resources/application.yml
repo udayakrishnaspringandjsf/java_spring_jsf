@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: footyApp-eureka-service
+server:
+  port: 8095
+    
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    
+zuul:
+  prefix: /api
+  routes:
+    footyApp-db-eureka-client-service:
+      path: /footy-service/**
+      url: http://localhost:8301
+    footyApp-auth-eureka-client-service:
+      path: /user-service/**
+      url: http://localhost:8302
+   
+      
