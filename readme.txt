@@ -40,7 +40,7 @@ footyApp-db-eureka-client-service
 3.Ensure that Eureka(Project 2) is running.
 4.Run the project as Spring boot.
 5.In Postman enter the below URL to display all available leagues:
-http://localhost:8905/api/footy-service/football/getAllLeague
+http://localhost:8095/api/footy-service/football/getAllLeague
 6.In postman enter below URL:
 http://localhost:8095/api/footy-service/football/getTeamsByLeague/serie-a
 Do not forget to add header as "key" as key and "password" as value 
