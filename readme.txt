@@ -60,4 +60,9 @@ http://localhost:8095/api/user-service/football/adduser/uday/superadmin/maddy.ud
 Do not forget to add header "password" as key and "whateverpasswordyouwant" as value.
 7.The above steps should create 2 tables Role and User and insert values into it.
 
+Project 0:
+FootyApp 
+1.This project is currently a project template to create UI for the App using JSF,EJB and Rest Services.
+2.Idea is to integrate AWS as well.
+
 ISSUES? Contact me by email: maddy.udi@gmail.com
